@@ -8,6 +8,9 @@
 A series of C# functions wrapping the <a href="https://github.com/ollama/ollama/blob/main/docs/api.md">ollama APIs</a>, mainly for the <a href="https://unity.com/">UnityEngine</a>
 </p>
 
+## Original github: https://github.com/Haoming02/ollama-unity
+This is a readme taken from the github above since the prerequisite are the same
+
 ## Prerequisite
 Both the **developer** and the **user**'s systems need to have a working ollama setup already:
 
