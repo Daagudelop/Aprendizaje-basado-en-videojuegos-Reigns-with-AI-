@@ -16,9 +16,9 @@ Both the **developer** and the **user**'s systems need to have a working ollama 
 
 1. Download and Install [ollama](https://ollama.com/)
 2. Pull a model of choice from the [Library](https://ollama.com/library)
-    - Recommend `gemma3:4b` for general conversation
+    - Recommend `llama3.2:3b` for general conversation (we are using this one)
         ```bash
-        ollama pull gemma3:4b
+        ollama pull llama3.2:3b
         ```
     - Recommend `gemma3:1b` for device with limited memory
         ```bash
